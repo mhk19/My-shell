@@ -1,1 +1,2 @@
-# Hashcode2021
+#My Shell in C
+A learning project in C.
